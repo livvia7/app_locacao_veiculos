@@ -1,2 +1,3 @@
 print("App de Locação de Veículos")
-print("v1.0.0")
+carro1 = "Gol"
+carro2 = "Fiat"
